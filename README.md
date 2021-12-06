@@ -40,3 +40,7 @@ github test
 [google](https://www.google.com/, "구글링은 여기서")
 
 ![멍멍이](https://i.pinimg.com/564x/cf/1c/c3/cf1cc3d8cc7a5b0165627f7ee812e5a6.jpg)
+
+![디오](./images/dio.jpeg)
+
+<img src="./images/dio.jpeg" width="400" height=auto/>
