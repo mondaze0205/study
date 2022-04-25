@@ -1,5 +1,5 @@
-# test
-github test 
+# study
+github study
 
 ---
 
